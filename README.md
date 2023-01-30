@@ -1,15 +1,15 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Guy Noe DJOUFAING (s3ite)</h1>
+<h1 align="center">Hi <img width="35" src="https://github.com/s3ite/s3ite/blob/main/ressources/hello.gif">, I'm Guy Noe DJOUFAING (s3ite)</h1>
 <h4 align="center">An engineering student at EPITA, currently open for an Intern or a new job opportunity. See <a href="https://s3ite.fr">my resume</a> for more</h4>
 </div>
 
 <div align="center">
   <a href="https://s3ite.fr">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/s3ite/s3ite/blob/main/ressources/snake.svg"
        alt="snake" /></a>
+  <picture> <img align="rigth" src="https://github.com/s3ite/s3ite/blob/main/ressources/code.gif" width=250px></picture>
 </div>
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -61,8 +61,6 @@
   
 
 <br/>  
-
-## Github stats
   
 ## Languages
   <div>
