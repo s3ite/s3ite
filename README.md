@@ -84,7 +84,7 @@
 <br/>
 
 
-## Stasistic
+## Statistic
   <div>
         <p align="center">
           <a href="https://github.com/s3ite/">
@@ -99,7 +99,6 @@
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
- ## Others
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=ilfql0bw2lg3vkbwudlr0btw3&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
+  
 
 <br/>  
