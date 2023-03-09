@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/s3ite/s3ite/blob/main/ressources/hello.gif">, I'm Guy Noe DJOUFAING (s3ite)</h1>
+<h1 align="center">Hi <img width="35" src="https://github.com/s3ite/s3ite/blob/main/ressources/hello.gif">, I'm Guy Noe DJOUFAING [alias s3ite]</h1>
 <h4 align="center">An engineering student at EPITA, currently open for an Intern or a new job opportunity. See <a href="https://s3ite.fr">my resume</a> for more</h4>
 </div>
 
