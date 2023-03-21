@@ -8,6 +8,8 @@
   <img  src="https://github.com/s3ite/s3ite/blob/main/ressources/snake.svg"
        alt="snake" /></a>
   <picture> <img align="rigth" src="https://github.com/s3ite/s3ite/blob/main/ressources/code.gif" width=250px></picture>
+    <picture> <img align="rigth" src="[https://github.com/s3ite/s3ite/blob/main/ressources/code.gif](https://i.gifer.com/39Cg.gif)" width=250px></picture>
+
 </div>
 
 
