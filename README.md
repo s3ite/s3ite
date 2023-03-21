@@ -12,7 +12,7 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F567523990538356835%2F&psig=AOvVaw1iGekmvK3R0GrxUlrUU-0Z&ust=1679524081420000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKD2yKiW7v0CFQAAAAAdAAAAABAD)"><br><br>
 
 
 ## Skill set  
